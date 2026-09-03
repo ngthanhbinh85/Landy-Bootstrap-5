@@ -14,7 +14,7 @@ Based on the original [Landy template](https://dribbble.com/shots/1409072-Landy-
 
 ## Live Preview
 
-[Click here to view Live Demo]([https://your-demo-link.com](https://apps.binhnguyensoft.com/demos/web-templates/landy-bootstrap5/))
+[Click here to view Live Demo](https://apps.binhnguyensoft.com/demos/web-templates/landy-bootstrap5/)
 
 ---
 

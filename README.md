@@ -1,4 +1,4 @@
-# Landy - Bootstrap 5 Edition
+# Landy - Bootstrap 5 Edition - Website Template
 
 A clean, modern, and fully responsive App Landing Page template, refactored and modernized to comply with **Bootstrap 5.3+**.
 

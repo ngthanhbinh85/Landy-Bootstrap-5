@@ -12,7 +12,7 @@ Based on the original [Landy template](https://dribbble.com/shots/1409072-Landy-
 
 [Click here to view Live Demo](https://apps.binhnguyensoft.com/demos/web-templates/landy-bootstrap5/)
 
-### Live examples using this template
+#### Live examples using this template
 
 [Shortcuts In Menu Bar](https://shortcutsinmenubar.binhnguyensoft.com/)
 

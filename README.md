@@ -12,6 +12,11 @@ Based on the original [Landy template](https://dribbble.com/shots/1409072-Landy-
 
 [Click here to view Live Demo](https://apps.binhnguyensoft.com/demos/web-templates/landy-bootstrap5/)
 
+### Live examples using this template
+
+[Shortcuts In Menu Bar](https://shortcutsinmenubar.binhnguyensoft.com/)
+[English For Kids](https://apps.binhnguyensoft.com/englishforkids/)
+
 ## Screenshot
 
 ![Landy - Bootstrap 5 Edition Screenshot](Landy-Bootstrap-5.webp)

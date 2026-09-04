@@ -14,7 +14,7 @@ Based on the original [Landy template](https://dribbble.com/shots/1409072-Landy-
 
 ## Screenshot
 
-
+![Landy - Bootstrap 5 Edition Screenshot](Landy-Bootstrap-5.webp)
 
 ## Key Improvements in Bootstrap 5 Edition
 

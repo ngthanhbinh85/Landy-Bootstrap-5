@@ -15,6 +15,7 @@ Based on the original [Landy template](https://dribbble.com/shots/1409072-Landy-
 ### Live examples using this template
 
 [Shortcuts In Menu Bar](https://shortcutsinmenubar.binhnguyensoft.com/)
+
 [English For Kids](https://apps.binhnguyensoft.com/englishforkids/)
 
 ## Screenshot

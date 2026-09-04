@@ -7,13 +7,11 @@ Originally designed for Bootstrap 3, this version has been overhauled to elimina
 Developed and maintained by **Binh Nguyen** ([binhnguyensoft.com](https://binhnguyensoft.com)).  
 Based on the original [Landy template](https://dribbble.com/shots/1409072-Landy-HTML-Template) by [Paolo Tripodi](https://dribbble.com/paolotripodi).
 
----
 
 ## Live Preview
 
 [Click here to view Live Demo](https://apps.binhnguyensoft.com/demos/web-templates/landy-bootstrap5/)
 
----
 
 ## Key Improvements in Bootstrap 5 Edition
 
@@ -24,8 +22,6 @@ Based on the original [Landy template](https://dribbble.com/shots/1409072-Landy-
 * **Bootstrap Icons:** Integrated official SVG-based Bootstrap Icons replacing obsolete icon fonts.
 * **Lightweight & Fast:** Optimized asset loading with zero unnecessary script executions.
 
----
-
 ## Project Structure
 
 ```
@@ -33,21 +29,19 @@ landy/
 ├── css/
 │   ├── bootstrap.min.css        # Bootstrap 5 compiled CSS
 │   ├── bootstrap-icons.min.css  # Bootstrap Icons CSS
-│   ├── style.css                # Custom template overrides & layout styles
-│   └── fonts/                   # Web fonts (Bootstrap Icons woff/woff2)
+│   └── fonts/                   # Fonts for Bootstrap Icons
+│   ├── style.css                # Custom template overrides
 ├── js/
 │   ├── bootstrap.bundle.min.js  # Bootstrap 5 JavaScript bundle
-│   └── scripts.js               # Vanilla JS for parallax & scroll interactions
+│   └── scripts.js               # Custom JS for parallax & scroll interactions
 ├── img/
 │   ├── screenshots/             # App preview screens
 │   ├── iphone-front.png         # iPhone frame mockup
-│   └── *.jpg / *.svg            # Section background assets & badges
-├── index.html                   # Main landing page markup
-├── LICENSE                      # License details
+│   └── *.jpg / *.svg            # Background assets & App Store badge
+├── index.html                   # Main page
+├── LICENSE                      # License
 └── README.md                    # Project documentation
 ```
-
----
 
 ## License
 

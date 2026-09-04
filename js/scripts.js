@@ -1,6 +1,6 @@
 /*
  * Landy - Bootstrap 5 Version
- * Updated & Maintained by Binh Nguyen (binhnguyensoft.com)
+ * Updated & Maintained by Binh Nguyen (https://www.binhnguyensoft.com)
  * Based on the original Landy template by Paolo Tripodi (https://dribbble.com/shots/1409072-Landy-HTML-Template)
  */
 
